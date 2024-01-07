@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">قیمت طلا و ارز</string>
+    <string name="img_splash">img_splash</string>
+    <string name="gold_price">قیمت طلا و ارز</string>
+    <string name="text2">تازه ترین اخبار ارز و طلای روز جهان</string>
+    <string name="data">سه شنبه ۲۴ تیر ۱۴۰۲</string>
+    <string name="arz">قیمت ارز</string>
+    <string name="gold">قیمت طلا</string>
+    <string name="img_desc">img_desc</string>
+    <string name="gold_18">گرم طلای ۱۸ عیار</string>
+</resources>
