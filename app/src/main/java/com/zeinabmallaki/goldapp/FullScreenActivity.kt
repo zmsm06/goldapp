@@ -11,6 +11,7 @@ class FullScreenActivity : AppCompatActivity() {
 
     private lateinit var binding: ActivityFullScreenBinding
 
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
