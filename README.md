@@ -1,6 +1,11 @@
 # GoldApp
 Online display of the price of gold, coins and common currencies
 
+## Libraries 
+- retrofit2
+- constraintlayout
+- gson
+
 ## ScreenShots
 
 Home page
